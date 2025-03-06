@@ -31,3 +31,6 @@ http://localhost:8080/
 
 ### Distribution
 ./gradlew wasmJsBrowserDistribution
+
+#### check at 
+composeApp/build/dist/wasmJs/productionExecutable
