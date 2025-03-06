@@ -1,0 +1,45 @@
+Design MD3 only
+Platform : Kotlin wasm
+Publish Git repo :
+Design : Show wallaper at home screen and pick color from there
+, Wallaper is changable by top right , show random wallaper from collection
+
+Left Navigation Rail
+Home
+Experince
+Projects
+Skills
+Testimonials
+Certifications
+About me(Intro , Resume)
+Contact Me
+
+
+
+Home Page
+Big title "Raju Shingadiya"
+Sub text "Android & Kotlin Multiplatform Developer"
+Experience : 6.5 years (Calculate and show dynamic from start date)
+
+Projects List :
+Left navigation list
+
+ Home
+A welcoming hero section with your name, profession, and a tagline.
+A professional profile picture or illustration.
+A call-to-action (CTA) like "Download Resume" or "Hire Me."
+
+ Experience
+A timeline or list of your previous job roles, companies, and responsibilities.
+Highlight key achievements in each role.
+Add logos of the companies you worked for.
+Could include internships & freelance work if relevant.
+
+Projects (For each )
+Showcase personal and professional projects with:
+Project title
+Description (problem, solution, and impact)
+Technologies used
+A live link and GitHub repo (if applicable)
+Images, videos, or demo previews
+
